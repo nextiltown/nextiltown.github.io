@@ -4,3 +4,7 @@ Onion ist ein Junge, der einem Zwiebel ähnelt, daher kommt sein Name. Er ist se
 * stumm
 * intelligent
 * introvertert
+## Zitat
+As Onion said:
+
+> *stille*
